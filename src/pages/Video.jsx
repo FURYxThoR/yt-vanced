@@ -120,7 +120,6 @@ const Video = () => {
         <iframe width="560" height="315" src="https://www.youtube.com/embed/OWjVxHtDPV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </VideoWrapper>
       <Title>Android 12 - Everything you need to know!</Title>
-      <Title>Test Video</Title>
         <Details>
           <Info>1,702,189 views • July 01, 2022</Info>
           <Buttons>
